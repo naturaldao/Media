@@ -1,2 +1,2 @@
-# midia
-Pictures, Videos, Music&amp;Song, etc.
+# media
+Pictures, Videos, Music&amp;Songs, etc.
